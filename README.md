@@ -32,7 +32,6 @@ Passionate Full Stack Web Developer with strong expertise in HTML, CSS, Bootstra
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShehrozShabbir&theme=tokyonight" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShehrozShabbir&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShehrozShabbir&icon=0&color=0)](https://visitcount.itsvg.in)
