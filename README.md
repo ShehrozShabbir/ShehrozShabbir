@@ -2,7 +2,7 @@
 Passionate Full Stack Web Developer with strong expertise in HTML, CSS, Bootstrap, JavaScript, and React.js, focused on building responsive and user-friendly web applications. Experienced in API integration and writing clean, maintainable code. Currently learning backend development with Laravel, with strong problem-solving and development fundamentals.<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-waheed-957430236)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-shehroz-shabbir)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
