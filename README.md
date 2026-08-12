@@ -20,19 +20,6 @@ Passionate Full Stack Web Developer with strong expertise in HTML, CSS, Bootstra
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-# 📊 GitHub Stats:
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShehrozShabbir&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShehrozShabbir&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShehrozShabbir&theme=tokyonight&utcOffset=5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShehrozShabbir&theme=tokyonight" />
-</p>
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ShehrozShabbir&icon=0&color=0)](https://visitcount.itsvg.in)
 
